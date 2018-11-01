@@ -1,4 +1,4 @@
-# LinearRegression
+# LinearRegression with constraint
 A LinearRegression with constraint
    Linear Regression with constraint bounds
     It offered MSE and MAE as loss function, and both L1 and L2 regularization
